@@ -1,0 +1,14 @@
+{
+  "name": "itro-to-node",
+  "version": "1.0.0",
+  "description": "this is an intro to node poject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladislav Stefanov",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
